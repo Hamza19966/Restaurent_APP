@@ -1,0 +1,10 @@
+Mutton Briyani,12.0,17
+Chicken Briyani,10.0,19
+Kabli Pulao ,8.0,15
+Lamp Grill ,15.0,10
+Mandi with Khabsa Rice,15.0,17
+Grilled Plater,45.0,20
+white rice,8.0,50
+pepsi,2.0,100
+new name for dish,6.0,5
+segi student meal,20.0,40

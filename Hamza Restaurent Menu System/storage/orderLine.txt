@@ -1,0 +1,5 @@
+
+1,Chicken Briyani,1,10.0
+2,Kabli Pulao ,4,32.0
+3,Mutton Briyani,3,36.0
+4,Mandi with Khabsa Rice,3,45.0
